@@ -2,13 +2,14 @@
 ==Jiongyue Xing (邢炯跃) 
 
 ~~~
-{}{img_left}{photos/portrait.jpg}{alt text}{131}{160}{https://xingjyue@github.io/}
+{}{img_left}{photos/portrait.jpg}{alt text}{120}{160}{https://xingjyue.github.io/}
 PhD, Sun Yat-sen University
-E-post: /xingjyue/ \[@\] mail2 \[DOT\] sysu \[DOT\] edu \[DOT\] cn
+
+Email: xingjyue@mail2.sysu.edu.cn, xingjyue@gmail.com
 ~~~
 
 == About me
-Jiongyue Xing (S’17) received the B.Sc. degree in communication engineering and the Ph.D. degree in information and communication engineering from Sun Yat-sen University, Guangzhou, China, in 2015 and 2020, respectively. From Dec. 2018 to Dec. 2019, he was a Visiting Ph.D. Student at the Institute of Communication Engineering, Ulm University, Germany. His research interests include channel coding and data communications.
+I received the B.Sc. degree in communication engineering and the Ph.D. degree in information and communication engineering from Sun Yat-sen University, Guangzhou, China, in 2015 and 2020, respectively. From Dec. 2018 to Dec. 2019, I was a Visiting Ph.D. Student at the Institute of Communication Engineering, Ulm University, Germany. 
 
 == Research
 My research interests include 
@@ -16,14 +17,14 @@ My research interests include
 - Wireless Communications
 
 [research.html Find out more].
+
 === Recent Publications 
-. J. Xing, L. Chen and M. Bossert, Low-complexity Chase decoding of Reed-Solomon codes using module，IEEE Transactions on Communications, to appear.
-. J. Xing, L. Chen and M. Bossert, Low-complexity Chase decoding of Reed-Solomon codes with module minimization, the IEEE International Symposium on Information Theory (ISIT), Los Angeles, USA, Jun. 2020.
-E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson \" Optimal parameter selection for the alternating direction method of
-multipliers (ADMM): quadratic problems \", IEEE Transactions on Automatic Control, 2015. \[[http://arxiv.org/abs/1306.2454 arxiv]\]
-. E. Ghadimi, A. Teixeira, M. Rabbat, and M. Johansson, \"The ADMM algorithm for distributed averaging: Convergence rates and optimal parameter selection\", In Proceedings of the 48th Asilomar Conference on Signals, Systems and Computers, 2014. \[[https://www.dropbox.com/s/k9izxz1m39yvvuz/admm_distributed_aveg.pdf?dl=0 pdf] \]
-. E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \"Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks\", ACM Transactions on Senor Networks, 2014. \[[pub/oppTOSN.pdf pdf]\]
+- *J. Xing*, L. Chen and M. Bossert, [https://ieeexplore.ieee.org/abstract/document/9149706 Low-complexity Chase decoding of Reed-Solomon codes using module]，/IEEE Transactions on Communications/, to appear.
+
+- *J. Xing*, L. Chen and M. Bossert, [https://digital-library.theiet.org/content/journals/10.1049/iet-com.2019.0064 Module minimisation based low-complexity soft decoding of Reed-Solomon codes], /IET Communications/, vol. 13, no. 20, pp. 3489-3499, Dec. 2019.
+
+- *J. Xing*, L. Chen and M. Bossert, [https://ieeexplore.ieee.org/abstract/document/8756007 Progressive algebraic soft-decision decoding of Reed-Solomon codes using module minimization], /IEEE Transactions on Communications/, vol. 67, no. 11, pp. 7379-7391, Nov. 2019.
 
 [publications.html Full list of publications].
-\n
+
 [cv.pdf A brief cv].
