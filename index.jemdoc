@@ -1,17 +1,21 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-==Jiongyue Xing (邢炯跃) 
+==Jiongyue Xing (�Ͼ�Ծ) 
 
 ~~~
-{}{img_left}{https://github.com/xingjyue/xingjyue.github.io/blob/master/photos/portrait.jpg}{alt text}{120}{160}{https://xingjyue.github.io/}
+{}{img_left}{photos/portrait.jpg}{Jiongyue Xing}{120}{160}{https://xingjyue.github.io/}
 PhD, Sun Yat-sen University
 
 Email: xingjyue@mail2.sysu.edu.cn, xingjyue@gmail.com
 ~~~
 
-== About me
-I received the B.Sc. degree in communication engineering and the Ph.D. degree in information and communication engineering from Sun Yat-sen University, Guangzhou, China, in 2015 and 2020, respectively. From Dec. 2018 to Dec. 2019, I was a Visiting Ph.D. Student at the Institute of Communication Engineering, Ulm University, Germany. 
+=== Education
+2011.09 - 2015.06 BSc in Communication Engineering, Sun Yat-sen University
 
-== Research
+2015.08 - 2020.06 MSc leading to PhD in Information and Communication Engineering, Sun Yat-sen University
+
+2018.12 - 2019.12 Visiting PhD Student, Institute of Communication Engineering, Ulm University 
+
+=== Research
 My research interests include 
 - Channel Coding  
 - Wireless Communications
@@ -19,7 +23,7 @@ My research interests include
 [research.html Find out more].
 
 === Recent Publications 
-- *J. Xing*, L. Chen and M. Bossert, [https://ieeexplore.ieee.org/abstract/document/9149706 Low-complexity Chase decoding of Reed-Solomon codes using module]，/IEEE Transactions on Communications/, to appear.
+- *J. Xing*, L. Chen and M. Bossert, [https://ieeexplore.ieee.org/abstract/document/9149706 Low-complexity Chase decoding of Reed-Solomon codes using module], /IEEE Transactions on Communications/, to appear.
 
 - *J. Xing*, L. Chen and M. Bossert, [https://digital-library.theiet.org/content/journals/10.1049/iet-com.2019.0064 Module minimisation based low-complexity soft decoding of Reed-Solomon codes], /IET Communications/, vol. 13, no. 20, pp. 3489-3499, Dec. 2019.
 
@@ -27,4 +31,8 @@ My research interests include
 
 [publications.html Full list of publications].
 
-[cv.pdf A brief cv].
+=== Awards
+- 2019 Zhentai Scholarship
+- 2018 - 2019 IEEE ISIT Student Travel Grant
+- 2014 Meritorious Winner of Mathematical Contest in Modeling (MCM)
+- 2013 - 2020 Sun Yat-sen University Scholarship
