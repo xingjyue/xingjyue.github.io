@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{photos/portrait.jpg}{Jiongyue Xing}{120}{160}{https://xingjyue.github.io/}
-Jiongyue XING (�Ͼ�Ծ)
+Jiongyue XING (邢炯跃)
 
 PhD, Sun Yat-sen University
 
@@ -23,19 +23,21 @@ Supervisor: [http://www.chencode.cn/ Prof. Li Chen]
 
 2018.12 - 2019.12 Visiting PhD Student, Institute of Communication Engineering, Ulm University 
 
-Supervisor: [https://www.uni-ulm.de/nt/staff/professors/bossert/ Prof. Dr.-Ing. Martin Bossert]
+Supervisor: [https://www.uni-ulm.de/nt/staff/professors/martin-bossert/ Prof. Dr.-Ing. Martin Bossert]
 
 === Research
 My research interests include 
-- Channel Coding  
+- Coding Theory
 - Wireless Communications
 
 [research.html Find out more].
 
-=== Recent Publications 
-- Y. Wan and *J. Xing*, [https://ieeexplore.ieee.org/abstract/document/9530546 Low-Complexity Kotter's Interpolation for List Decoding of Elliptic Codes], /IEEE Communications Letters/, vol. 25, no. 11, Nov. 2021. (corresponding author)
+=== Selected Publications 
+- *J. Xing*, M. Bossert, L. Chen, J. Yuan and S. Bitzer, [https://ieeexplore.ieee.org/abstract/document/10269061 Shift-sum decoding of non-binary cyclic codes], /IEEE Transactions on Information Theory/, vol. 70, no. 2, pp. 980-994, Feb. 2024.
 
-- J. Yuan, *J. Xing* and L. Chen, [https://ieeexplore.ieee.org/document/9518200 Plausibility analysis of shift-sum decoding for cyclic codes], /IEEE International Symposium on Information Theory (ISIT)/, Melbourne, Victoria, Australia, Jul. 2021.
+- H. Cao, *J. Xing* and S. Liang, [https://ieeexplore.ieee.org/abstract/document/10138601 CRC-aided sparse regression codes for unsourced random access], /IEEE Communications Letters/, vol. 27, no. 8, pp. 1944-1948, Aug. 2023. (corresponding author)
+
+- Y. Wan and *J. Xing*, [https://ieeexplore.ieee.org/abstract/document/9530546 Low-complexity Kotter's interpolation for list decoding of elliptic codes], /IEEE Communications Letters/, vol. 25, no. 11, pp. 3473-3477, Nov. 2021. (corresponding author)
 
 - *J. Xing*, L. Chen and M. Bossert, [https://ieeexplore.ieee.org/abstract/document/9149706 Low-complexity Chase decoding of Reed-Solomon codes using module], /IEEE Transactions on Communications/, vol. 68, no. 10, pp. 6012-6022, Oct. 2020.
 
